@@ -1,0 +1,26 @@
+{
+  "settings": {
+    "bot_name": "ASROM SHOP",
+    "welcome": "👋 أهلاً بك في ASROM SHOP\n\n💰 اجمع النقاط واشترِ ما تريد!",
+    "support_channel": "https://t.me/asrom_xit",
+    "proofs_channel": "",
+    "required_channels": [],
+    "daily_gift_points": 10,
+    "daily_gift_cooldown": 86400,
+    "referral_points": 20,
+    "currency_emoji": "💰"
+  },
+  "users": {},
+  "products": {},
+  "orders": {},
+  "points_links": {},
+  "maintenance": {
+    "active": false,
+    "message": "🔧 المتجر تحت الصيانة",
+    "end_time": 0
+  },
+  "stats": {
+    "total_sales": 0,
+    "total_points_given": 0
+  }
+}
